@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/yoshimurasatoshi/Documents/ST41/kadai101/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-1fe73e733ce3ac059e43ddebb3bf2cbed37fef4f.jar"
+        jar="/Users/yoshimurasatoshi/Documents/ST41/kadai101/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/yoshimurasatoshi/Documents/ST41/kadai101/app/build/intermediates/pre-dexed/debug/classes-a17bc647a2aad3bfc416508d66efbef03f0d3555.jar"
+        jar="/Users/yoshimurasatoshi/Documents/ST41/kadai101/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/yoshimurasatoshi/Documents/ST41/kadai101/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-2cfcc258f6165a45942d4d0a70b16f5eb34af0fd.jar"
+        jar="/Users/yoshimurasatoshi/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+
+</pre-dex-items>
